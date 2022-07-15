@@ -1,11 +1,7 @@
 
-## Hi there! 👋 I'm **Saad**
-<br />
-<br />
+### Hi there! 👋 I'm **Saad**
 
-## About Me
----
-<br />
+### About Me
 
 💻&nbsp;&nbsp;&nbsp;&nbsp; **Full-Stack Developer**
 
@@ -27,10 +23,7 @@
 
 🧔&nbsp;&nbsp;&nbsp;&nbsp; He/Him
 
-<br />
-
-## 💻 Full-Stack Development
----
+### 💻 Full-Stack Development
 
 I have been making stuff with web technologies for eight years.
 
@@ -51,11 +44,7 @@ I've worked with:
 - jQuery
 - Bootstrap
 
-
-<br />
-
-## 🎨 Design
----
+### 🎨 Design
 
 [Graphic Design is my passion.](https://knowyourmeme.com/memes/graphic-design-is-my-passion)
 
