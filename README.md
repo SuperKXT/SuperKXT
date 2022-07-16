@@ -1,29 +1,29 @@
 
-### Hi there! 👋 I'm **Saad**
+### Hi there! :wave: I'm **Saad**
 
 ### About Me
 
-💻&nbsp;&nbsp;&nbsp;&nbsp; **Full-Stack Developer**
+:computer:&nbsp;&nbsp;&nbsp;&nbsp; **Full-Stack Developer**
 
-🎨&nbsp;&nbsp;&nbsp;&nbsp; **Designer**
+:art:&nbsp;&nbsp;&nbsp;&nbsp; **Designer**
 
-🇵🇰&nbsp;&nbsp;&nbsp;&nbsp; From **Pakistan**
+:pakistan:&nbsp;&nbsp;&nbsp;&nbsp; From **Pakistan**
 
-💖&nbsp;&nbsp;&nbsp;&nbsp; Originally from **Haripur**
+:sparkling_heart:&nbsp;&nbsp;&nbsp;&nbsp; Originally from **Haripur**
 
-🏢&nbsp;&nbsp;&nbsp;&nbsp;  Living in **Lahore**
+:office:&nbsp;&nbsp;&nbsp;&nbsp;  Living in **Lahore**
 
-🎓&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's in **Software Engineering**
+:mortar_board:&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's in **Software Engineering**
 
-🗣&nbsp;&nbsp;&nbsp;&nbsp; Reasonably Articulate (usually)
+:speech_balloon:&nbsp;&nbsp;&nbsp;&nbsp; Reasonably Articulate (usually)
 
-🧠&nbsp;&nbsp;&nbsp;&nbsp; Logically Solid
+:brain:&nbsp;&nbsp;&nbsp;&nbsp; Logically Solid
 
-🧮&nbsp;&nbsp;&nbsp;&nbsp; Problem Solver (and occasional creator)
+:abacus:&nbsp;&nbsp;&nbsp;&nbsp; Problem Solver (and occasional problem creator)
 
-🧔&nbsp;&nbsp;&nbsp;&nbsp; He/Him
+:bearded_person:&nbsp;&nbsp;&nbsp;&nbsp; He/Him
 
-### 💻 Full-Stack Development
+### :computer: Full-Stack Development
 
 I have been making stuff with web technologies for eight years.
 
@@ -44,7 +44,7 @@ I've worked with:
 - jQuery
 - Bootstrap
 
-### 🎨 Design
+### :art: Design
 
 [Graphic Design is my passion.](https://knowyourmeme.com/memes/graphic-design-is-my-passion)
 
