@@ -15,17 +15,11 @@
 
 :mortar_board:&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's in **Software Engineering**
 
-:speech_balloon:&nbsp;&nbsp;&nbsp;&nbsp; Reasonably Articulate (usually)
-
-:brain:&nbsp;&nbsp;&nbsp;&nbsp; Logically Solid
-
-:abacus:&nbsp;&nbsp;&nbsp;&nbsp; Problem Solver (and occasional problem creator)
-
 :bearded_person:&nbsp;&nbsp;&nbsp;&nbsp; He/Him
 
 ### :computer: Full-Stack Development
 
-I have been making stuff with web technologies for eight years.
+I have been making stuff with web technologies for ten years.
 
 I've worked with:
 
