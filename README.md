@@ -53,13 +53,3 @@ I've worked with:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-### :art: Design
-
-[Graphic Design is my passion.](https://knowyourmeme.com/memes/graphic-design-is-my-passion)
-
-My design aesthetic is Minimal and Flat.
-
-I have tried my hand at **Logo & Brand Identity Design**, **UI Design**, **Iconography**, **Web Assets**, and **Design for Print**.
-
-Logo & Brand Identity Design in particular fascinates me.
