@@ -1,8 +1,6 @@
 
 ### Hi there! :wave: I'm **Saad**
 
-### About Me
-
 :computer:&nbsp;&nbsp;&nbsp;&nbsp; **Full-Stack Developer**
 
 :art:&nbsp;&nbsp;&nbsp;&nbsp; **Designer**
@@ -14,10 +12,6 @@
 :office:&nbsp;&nbsp;&nbsp;&nbsp;  Living in **Lahore**
 
 :mortar_board:&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's in **Software Engineering**
-
-:bearded_person:&nbsp;&nbsp;&nbsp;&nbsp; He/Him
-
-### :computer: Full-Stack Development
 
 I have been making stuff with web technologies for ten years.
 
