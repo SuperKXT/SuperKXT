@@ -13,7 +13,7 @@
 
 :mortar_board:&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's in **Software Engineering**
 
-I have been making stuff with web technologies for ten years.
+I have been making stuff with web technologies for eleven years.
 
 I've worked with:
 
