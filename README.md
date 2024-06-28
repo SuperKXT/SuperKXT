@@ -46,3 +46,6 @@ I have been making stuff with web technologies for eleven years.
 ![Vitest](https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=SuperKXT&theme=buefy&hide_border=true)](https://git.io/streak-stats)
