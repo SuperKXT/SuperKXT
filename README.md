@@ -14,4 +14,4 @@ I have been making stuff with web technologies for eleven years.
 ---
 
 ### Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuperKXT&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=SuperKXT&theme=buefy&hide_border=true)](https://git.io/streak-stats)
